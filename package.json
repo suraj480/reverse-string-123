@@ -1,6 +1,6 @@
 {
   "name": "formatallfs",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A description of your package",
   "main": "index.js",
   "scripts": {
