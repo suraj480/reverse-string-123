@@ -1,12 +1,19 @@
 {
-  "name": "htmljsformatall",
+  "name": "formatallfs",
   "version": "1.0.0",
   "description": "A description of your package",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["format", "html", "code"],
+  "keywords": [
+    "format",
+    "html",
+    "code"
+  ],
   "author": "Er. Suraj maurya",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "formatallfs": "^1.0.0"
+  }
 }
