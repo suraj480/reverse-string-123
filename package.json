@@ -1,10 +1,10 @@
 {
   "name": "formatallfs",
-  "version": "1.0.6",
+  "version": "2.0.0",
   "description": "A description of your package",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "node unicformater123.js"
   },
   "keywords": [
     "format",
@@ -13,7 +13,5 @@
   ],
   "author": "Er. Suraj maurya",
   "license": "MIT",
-  "dependencies": {
-    "formatallfs": "^1.0.0"
-  }
+  "dependencies": {}
 }
