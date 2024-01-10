@@ -12,7 +12,7 @@
     <pre><code>npm install formatallfs</code></pre>
     <h2>Usage :- Add below in package.json file</h2>
     <pre><code>"scripts": {
-  "formatall": "node node_modules/formatallfs/index.js"
+  "formatall": "node node_modules/formatallfs/unicformater123.js"
 }
 </code>
 </pre>
